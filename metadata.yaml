@@ -1,5 +1,5 @@
 _repo: Cumner-s-Son-and-Other-South-Sea-Folk-Volume-05_6199
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,6 +28,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PS'
 - !lcsh 'Oceania -- Fiction'
+- GITenberg
 tableOfContents: A pagan of the south.
 title: Cumner's Son and Other South Sea Folk — Volume 05
 url: http://www.gutenberg.org/ebooks/6199
